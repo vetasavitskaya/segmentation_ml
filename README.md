@@ -18,7 +18,7 @@ Aerial Semantic Segmentation Drone Dataset: https://www.kaggle.com/datasets/bule
 Architecture | paper | docs | file |
 --- | --- | --- |------|
 Unet | https://arxiv.org/pdf/1505.04597.pdf | https://smp.readthedocs.io/en/latest/models.html#unet | [Unet_UnetPlus_MAnet.ipynb](https://github.com/vetasavitskaya/segmentation_ml/blob/main/Unet_UnetPlus_MAnet.ipynb) |
-Unet++ | https://arxiv.org/pdf/1807.10165.pdf | https://smp.readthedocs.io/en/latest/models.html#id2 | !Unet_UnetPlus_MAnet.ipynb](https://github.com/vetasavitskaya/segmentation_ml/blob/main/Unet_UnetPlus_MAnet.ipynb) |
+Unet++ | https://arxiv.org/pdf/1807.10165.pdf | https://smp.readthedocs.io/en/latest/models.html#id2 | [Unet_UnetPlus_MAnet.ipynb](https://github.com/vetasavitskaya/segmentation_ml/blob/main/Unet_UnetPlus_MAnet.ipynb) |
 MAnet | https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9201310 | https://smp.readthedocs.io/en/latest/models.html#manet | [Unet_UnetPlus_MAnet.ipynb](https://github.com/vetasavitskaya/segmentation_ml/blob/main/Unet_UnetPlus_MAnet.ipynb) |
 Linknet | https://arxiv.org/pdf/1707.03718.pdf | https://smp.readthedocs.io/en/latest/models.html#linknet | [Linknet_FPN_PSPNet.ipynb](https://github.com/vetasavitskaya/segmentation_ml/blob/main/Linknet_FPN_PSPNet.ipynb) |
 FPN | http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf | https://smp.readthedocs.io/en/latest/models.html#fpn | [Linknet_FPN_PSPNet.ipynb](https://github.com/vetasavitskaya/segmentation_ml/blob/main/Linknet_FPN_PSPNet.ipynb) |
